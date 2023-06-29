@@ -40,6 +40,7 @@ This is a web based application develepoed related to e-commerce based website i
 https://lemon-sand-0428cc710.3.azurestaticapps.net/contact.html
 
 ### project demo video url-
+https://drive.google.com/file/d/18QmttPtLWvLIZv5m2OAxBeKpIRbICvdz/view?usp=drive_link
 
 ### GitHub repository-
 
